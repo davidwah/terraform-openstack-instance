@@ -3,7 +3,7 @@
 ## How to run
 * clone this repo project
 ```
-git clone 
+git clone https://github.com/davidwah/terraform-openstack-instance.git
 ```
 * input variable value for this command
 ```
